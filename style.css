@@ -10,8 +10,6 @@
 	background: #FF8C00;
 	margin-left: 0;
 	margin-right: 0;
-
-
 	}
 .site-header h1 {
 	text-align: center;
@@ -34,6 +32,7 @@
     height: 500px;
     float: left;
     background-color: #A52A2A;
+    text-align: center;
     
 }
 
@@ -44,6 +43,7 @@
     height: 500px;
     font-size: 15px;
     float: left;
+    text-align: center;
     
 }
 .productRyad2 {
@@ -53,5 +53,6 @@
 	background-color: #eee;
     height: 500px;
     font-size: 15px;
+    text-align: center;
     
 }
