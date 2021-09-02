@@ -1,0 +1,17 @@
+. site-header {
+	padding: 10px;
+	background: #fff;
+	width: 20%;
+	
+}
+. site-header h1 {
+	text-align: center;
+	font-size: 5em;
+	color: #fff;
+	width: 100%;
+}
+
+. site_footer h6 i {
+	padding-right: initial;
+	text-align: center;
+}
