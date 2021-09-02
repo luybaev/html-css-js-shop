@@ -1,15 +1,57 @@
-.site-header {
-	padding: 10px;
-	background: #fff;
-	width: 20%;
+.site-body {
+	background: #FAEBD7;
+	margin: 0px;
 }
+
+.site-header {
+	margin: 0px;
+	padding: 0;
+	width: 100%;
+	background: #FF8C00;
+	margin-left: 0;
+	margin-right: 0;
+
+
+	}
 .site-header h1 {
 	text-align: center;
-	font-size: 5em;
-	color: #fff;
+}
+
+
+.site_footer {
 	width: 100%;
 }
-.site_footer h6 i {
-	padding-right: initial;
+.site_footer h6 {
 	text-align: center;
+}
+.site_footer h6 i {
+
+	}
+.sidebar {
+	width: 20%;
+    border: 1px solid black;
+    font-size: 15px;
+    height: 500px;
+    float: left;
+    background-color: #A52A2A;
+    
+}
+
+.productRyad1 {
+	width: 40%;
+	border: 1px solid black;
+	background-color: #eee;
+    height: 500px;
+    font-size: 15px;
+    float: left;
+    
+}
+.productRyad2 {
+	width: 40%;
+	margin-left: 60%;
+	border: 1px solid black;
+	background-color: #eee;
+    height: 500px;
+    font-size: 15px;
+    
 }
